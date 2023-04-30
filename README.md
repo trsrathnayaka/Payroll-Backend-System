@@ -1,1 +1,3 @@
 # Payroll Backend System
+###Introduction 
+The core of any organization's human resources system is the payroll system. The issue must be addressed in the solution, along with the numerous salary deductions that must be made in accordance with the company's policies. It must provide pay stubs and record attendance. It might be exhausting to manage countless strange paperwork, pay slips, payroll records, salary details, and other documents. It would be incredibly beneficial and time-saving if we had a payroll processing system that could produce our pay stubs and payroll reports in a matter of seconds.
