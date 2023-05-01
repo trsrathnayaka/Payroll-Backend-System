@@ -10,3 +10,13 @@ The primary goal of a payroll management system is to offer a simple solution fo
 ![WhatsApp Image 2023-05-01 at 07 44 02 (1)](https://user-images.githubusercontent.com/97075043/235391898-6948ad16-d757-4ab5-bf0b-e20d1e984025.jpeg)
 
 ![WhatsApp Image 2023-05-01 at 07 44 02](https://user-images.githubusercontent.com/97075043/235391920-1e46c5eb-0ae5-450e-9873-03eb7d25fe74.jpeg)
+
+### Used Languages
+* Java
+
+### Used Technologies & Frameworks
+* Netbeans , Mysql Database
+
+## Thank you 😃
+
+If you like this project just click ⭐ and share it with others.
