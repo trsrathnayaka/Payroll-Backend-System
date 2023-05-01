@@ -12,3 +12,9 @@ The primary goal of a payroll management system is to offer a simple solution fo
 ![3](https://user-images.githubusercontent.com/97075043/235342532-c52bc649-0a70-453d-9486-7a6b24d5ccce.png)
 
 ![4](https://user-images.githubusercontent.com/97075043/235342541-74ff4a1e-36f3-4fff-9f08-654472137044.png)
+
+![4](https://user-images.githubusercontent.com/97075043/235391374-613033e5-f128-44fb-b948-b063cb50cd74.png)
+
+![5](https://user-images.githubusercontent.com/97075043/235391378-4b61c04e-4dd9-46f3-82d9-a48ef191deaf.png)
+
+![6](https://user-images.githubusercontent.com/97075043/235391382-447b3727-77d8-4e52-84a4-34a9d16f592c.png)
