@@ -13,6 +13,7 @@ The primary goal of a payroll management system is to offer a simple solution fo
 
 ### Used Languages
 * Java
+* .NET Framework
 
 ### Used Technologies & Frameworks
 * Netbeans , Mysql Database
